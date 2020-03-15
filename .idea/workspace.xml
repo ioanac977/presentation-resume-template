@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f28521-8477-4061-8c9b-caba1b1226dc" name="Default Changelist" comment="" />
+    <list default="true" id="19f28521-8477-4061-8c9b-caba1b1226dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,11 @@
   <component name="FavoritesManager">
     <favorites_list name="react-portfolio-master" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YTyP9ZbcYfWQnlMhsuHywYkmTv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -51,7 +57,7 @@
       <workItem from="1584193276708" duration="2417000" />
       <workItem from="1584218749370" duration="1868000" />
       <workItem from="1584273345687" duration="1323000" />
-      <workItem from="1584274980072" duration="289000" />
+      <workItem from="1584274980072" duration="997000" />
     </task>
     <servers />
   </component>
