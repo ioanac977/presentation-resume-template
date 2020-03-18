@@ -6,10 +6,10 @@ import profilPhoto from "../images/profilPhoto3.jpg"
 class Contact extends Component {
     render() {
         return (
+<div>
+    <div className="landing-grid">
 
-            <div className="landing-grid">
-
-
+            </div>
                 <div className="contact-body">
                     <Grid className="contact-grid">
                         <Cell col={6}>
@@ -60,8 +60,11 @@ class Contact extends Component {
                             </div>
                         </Cell>
                     </Grid>
-
+                    <footer><br></br><br></br><br></br>
+                        Made by <a href ="https://github.com/ioanac977/presentation-resume-template">@IoanaCristea</a>
+                    </footer>
                 </div>
+
 
             </div>
 

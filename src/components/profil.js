@@ -48,6 +48,9 @@ class Profil extends Component {
                             </div>
                         </div>
                     </Cell>
+                    <footer> <br></br><br></br><br></br>
+                        Made by <a href ="https://github.com/ioanac977/presentation-resume-template">@IoanaCristea</a>
+                    </footer>
                 </Grid>
 
             </div>

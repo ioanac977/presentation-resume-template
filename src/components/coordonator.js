@@ -29,6 +29,9 @@ class Coordonator extends Component {
                         </div>
                     </Cell>
 
+                    <footer><br></br>
+                        Made by <a href ="https://github.com/ioanac977/presentation-resume-template">@IoanaCristea</a>
+                    </footer>
                 </Grid>
 
             </div>

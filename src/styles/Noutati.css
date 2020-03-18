@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 *{
     /* I know I could write "margin: 0; padding: 0;". But that's not performant. */
-    font-family: 'Open Sans';
+    /*font-family: 'Open Sans';*/
     line-height: 170%;
     color: #444;
 }
@@ -18,10 +18,14 @@ mark {
     background-color: white;
     padding: 0px 3px;
 }
+.article footer{
+    background: transparent;
+}
 footer {
-    background: #833ab4;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0e9aa7 , #3da4ab , #f6cd61 , #fe8a71);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0e9aa7 , #3da4ab , #f6cd61 , #fe8a71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background:transparent;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer.a {

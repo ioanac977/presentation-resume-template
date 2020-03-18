@@ -80,7 +80,9 @@ class Noutati extends Component {
                             onReady={this._onReady}
                         />
                     </div>
-
+                    <footer>
+                        Made by <a href ="https://github.com/ioanac977/presentation-resume-template">@IoanaCristea</a>
+                    </footer>
 
                 </div>
 
